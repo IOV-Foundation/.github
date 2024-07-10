@@ -28,11 +28,6 @@ Promovemos la autonomía y el cuidado de los datos de los individuos otorgándol
 ### Empoderamiento Financiero
 La Blockchain facilita la inclusión financiera proporcionando servicios financieros transparentes, seguros y accesibles, reduciendo fraudes y costos, y promoviendo la independencia financiera.
 
-## Proyectos Destacados
-
-- **Plataforma AGUA:** Iniciativa desarrollada por Globant y con el fondeo inicial de la Fundación IOV y Unicef Innovation, apoyando a emprendedores sociales. [Repo Open Source](https://gitlab.com/atixlabs-oss/agua)
-- **IDA**: Proyecto en desarrollo que cuenta actualmente con una demostración técnica funcional de un caso de uso (Licencia de Conducir) utilizando Identidad Digital Autosoberana con la capacidad de facilitar la verificación de información en entornos con acceso limitado a internet. [Repo Open Source](https://)
-
 ## Contacto
 
 - **Soporte Técnico**: [support@iovf.org](mailto:support@iovf.org)
