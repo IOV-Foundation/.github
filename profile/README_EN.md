@@ -27,11 +27,6 @@ We promote the autonomy and data care of individuals by giving them greater cont
 ### Financial Empowerment
 Blockchain facilitates financial inclusion by providing transparent, secure, and accessible financial services, reducing fraud and costs, and promoting financial independence.
 
-## Featured Projects
-
-- **AGUA Platform:** An initiative developed by Globant with initial funding from IOV Foundation and Unicef Innovation, supporting social entrepreneurs. [Open Source Repo](https://gitlab.com/atixlabs-oss/agua)
-- **IDA**: An ongoing project that currently features a functional technical demonstration of a use case (Driver's License) using Self-Sovereign Identity to facilitate information verification in environments with limited internet access. [Open Source Repo](https://)
-
 ## Contact
 
 - **Technical Support**: [support@iovf.org](mailto:support@iovf.org)
